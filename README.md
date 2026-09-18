@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-Computer engineering student at Cal Poly Pomona with interests in IT, Cyber Security, Threat Detection, Active Directory, Networking, Automation, and AI.
+Computer engineering student at Cal Poly Pomona with interests in IT, Cyber Security, Threat Detection, Networking, Automation, and AI.
 
 I build hands-on security labs and software projects that connect system administration, cybersecurity analysis, and automation.
 
