@@ -38,4 +38,4 @@ Security operations and threat-hunting project that collects Windows Security ev
 ## Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/nathan-truong-680822329
-- **Email:** nwtruong@cpp.edu
+- **Email:** nwtruong@cpp.edu | natt20800@gmail.com
