@@ -14,7 +14,7 @@ Virtualized Windows Server 2019 enterprise lab built with Active Directory Domai
 
 ---
 
-### [AI-Assisted SOC Analyst](https://github.com/natt2080/Agentic-Ai-Soc-Analyst)
+### [AI-Assisted SOC Analyst](https://github.com/natt20800/Agentic-Ai-Soc-Analyst)
 
 Security operations and threat-hunting project that collects Windows Security events, converts event data into structured records, applies deterministic detection logic, and provides evidence to an AI-assisted investigation layer.
 
